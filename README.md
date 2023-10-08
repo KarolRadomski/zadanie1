@@ -1,7 +1,6 @@
 # Zadanie1: Graphs
 
-A brief description of what this project does and who it's for
-
+Zadanie polegało na usunięciu połączenia na grafie pomiędzy ostatnim odczytem przed wyłączeniem urządzenia a pierwszym po włączeniu urządzenia.
 
 ## Uruchomienie projektu
 
