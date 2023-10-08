@@ -1,0 +1,408 @@
+[
+  {
+    "timestamp": "2023-10-02T12:00:00",
+    "cpu_usage_percent": 25.4
+  },
+  {
+    "timestamp": "2023-10-02T12:00:30",
+    "cpu_usage_percent": 27.1
+  },
+  {
+    "timestamp": "2023-10-02T12:01:00",
+    "cpu_usage_percent": 29.8
+  },
+  {
+    "timestamp": "2023-10-02T12:01:30",
+    "cpu_usage_percent": 31.2
+  },
+  {
+    "timestamp": "2023-10-02T12:02:00",
+    "cpu_usage_percent": 28.5
+  },
+  {
+    "timestamp": "2023-10-02T12:02:30",
+    "cpu_usage_percent": 26.9
+  },
+  {
+    "timestamp": "2023-10-02T12:03:00",
+    "cpu_usage_percent": 25.4
+  },
+  {
+    "timestamp": "2023-10-02T12:03:30",
+    "cpu_usage_percent": 24.1
+  },
+  {
+    "timestamp": "2023-10-02T12:04:00",
+    "cpu_usage_percent": 23.8
+  },
+  {
+    "timestamp": "2023-10-02T12:04:30",
+    "cpu_usage_percent": 23.2
+  },
+  {
+    "timestamp": "2023-10-02T12:05:00",
+    "cpu_usage_percent": 22.9
+  },
+  {
+    "timestamp": "2023-10-02T12:05:30",
+    "cpu_usage_percent": 22.5
+  },
+  {
+    "timestamp": "2023-10-02T12:06:00",
+    "cpu_usage_percent": 22.1
+  },
+  {
+    "timestamp": "2023-10-02T12:06:30",
+    "cpu_usage_percent": 21.8
+  },
+  {
+    "timestamp": "2023-10-02T12:07:00",
+    "cpu_usage_percent": 21.5
+  },
+  {
+    "timestamp": "2023-10-02T12:07:30",
+    "cpu_usage_percent": 21.2
+  },
+  {
+    "timestamp": "2023-10-02T12:08:00",
+    "cpu_usage_percent": 20.9
+  },
+  {
+    "timestamp": "2023-10-02T12:08:30",
+    "cpu_usage_percent": 20.6
+  },
+  {
+    "timestamp": "2023-10-02T12:09:00",
+    "cpu_usage_percent": 20.3
+  },
+  {
+    "timestamp": "2023-10-02T12:09:30",
+    "cpu_usage_percent": 20.0
+  },
+  {
+    "timestamp": "2023-10-02T12:10:00",
+    "cpu_usage_percent": 19.7
+  },
+  {
+    "timestamp": "2023-10-02T12:10:30",
+    "cpu_usage_percent": 19.4
+  },
+  {
+    "timestamp": "2023-10-02T12:11:00",
+    "cpu_usage_percent": 19.1
+  },
+  {
+    "timestamp": "2023-10-02T12:11:30",
+    "cpu_usage_percent": 18.8
+  },
+  {
+    "timestamp": "2023-10-02T12:12:00",
+    "cpu_usage_percent": 18.5
+  },
+  {
+    "timestamp": "2023-10-02T12:12:30",
+    "cpu_usage_percent": 18.2
+  },
+  {
+    "timestamp": "2023-10-02T12:13:00",
+    "cpu_usage_percent": 17.9
+  },
+  {
+    "timestamp": "2023-10-02T12:13:30",
+    "cpu_usage_percent": 17.6
+  },
+  {
+    "timestamp": "2023-10-02T12:14:00",
+    "cpu_usage_percent": 17.3
+  },
+  {
+    "timestamp": "2023-10-02T12:14:30",
+    "cpu_usage_percent": 17.0
+  },
+  {
+    "timestamp": "2023-10-02T12:15:00",
+    "cpu_usage_percent": 16.7
+  },
+  {
+    "timestamp": "2023-10-02T12:15:30",
+    "cpu_usage_percent": 16.4
+  },
+  {
+    "timestamp": "2023-10-02T12:16:00",
+
+    "cpu_usage_percent": 16.1
+  },
+  {
+    "timestamp": "2023-10-02T12:16:30",
+    "cpu_usage_percent": 15.8
+  },
+  {
+    "timestamp": "2023-10-02T12:17:00",
+    "cpu_usage_percent": 15.5
+  },
+  {
+    "timestamp": "2023-10-02T12:17:30",
+    "cpu_usage_percent": 15.2
+  },
+  {
+    "timestamp": "2023-10-02T12:18:00",
+    "cpu_usage_percent": 14.9
+  },
+  {
+    "timestamp": "2023-10-02T12:18:30",
+    "cpu_usage_percent": 14.6
+  },
+  {
+    "timestamp": "2023-10-02T12:19:00",
+    "cpu_usage_percent": 14.3
+  },
+  {
+    "timestamp": "2023-10-02T12:19:30",
+    "cpu_usage_percent": 14.0
+  },
+  {
+    "timestamp": "2023-10-02T12:20:00",
+    "cpu_usage_percent": 13.7
+  },
+  {
+    "timestamp": "2023-10-02T12:20:30",
+    "cpu_usage_percent": 13.4
+  },
+  {
+    "timestamp": "2023-10-02T12:21:00",
+    "cpu_usage_percent": 34.1
+  },
+  {
+    "timestamp": "2023-10-02T12:21:30",
+    "cpu_usage_percent": 35.8
+  },
+  {
+    "timestamp": "2023-10-02T12:22:00",
+    "cpu_usage_percent": 37.5
+  },
+  {
+    "timestamp": "2023-10-02T12:22:30",
+    "cpu_usage_percent": 39.2
+  },
+  {
+    "timestamp": "2023-10-02T12:23:00",
+    "cpu_usage_percent": 40.9
+  },
+  {
+    "timestamp": "2023-10-02T12:23:30",
+    "cpu_usage_percent": 42.6
+  },
+  {
+    "timestamp": "2023-10-02T12:24:00",
+    "cpu_usage_percent": 57.3
+  },
+  {
+    "timestamp": "2023-10-02T12:24:30",
+    "cpu_usage_percent": 58.0
+  },
+  {
+    "timestamp": "2023-10-02T12:25:00",
+    "cpu_usage_percent": 58.7
+  },
+  {
+    "timestamp": "2023-10-02T12:25:30",
+    "cpu_usage_percent": 59.4
+  },
+  {
+    "timestamp": "2023-10-02T12:26:00",
+    "cpu_usage_percent": 60.1
+  },
+  {
+    "timestamp": "2023-10-02T12:26:30",
+    "cpu_usage_percent": 60.8
+  },
+  {
+    "timestamp": "2023-10-02T12:27:00",
+    "cpu_usage_percent": 21.5
+  },
+  {
+    "timestamp": "2023-10-02T12:27:30",
+    "cpu_usage_percent": 21.2
+  },
+  {
+    "timestamp": "2023-10-02T12:28:00",
+    "cpu_usage_percent": 20.9
+  },
+  {
+    "timestamp": "2023-10-02T12:28:30",
+    "cpu_usage_percent": 20.6
+  },
+  {
+    "timestamp": "2023-10-02T12:29:00",
+    "cpu_usage_percent": 20.3
+  },
+  {
+    "timestamp": "2023-10-02T12:29:30",
+    "cpu_usage_percent": 20.0
+  },
+  {
+    "timestamp": "2023-10-02T12:30:00",
+    "cpu_usage_percent": 19.7
+  },
+  {
+    "timestamp": "2023-10-02T12:30:30",
+    "cpu_usage_percent": 19.4
+  },
+  {
+    "timestamp": "2023-10-02T12:31:00",
+    "cpu_usage_percent": 19.1
+  },
+  {
+    "timestamp": "2023-10-02T12:31:30",
+    "cpu_usage_percent": 18.8
+  },
+  {
+    "timestamp": "2023-10-02T12:32:00",
+    "cpu_usage_percent": 18.5
+  },
+  {
+    "timestamp": "2023-10-02T12:32:30",
+    "cpu_usage_percent": 18.2
+  },
+  {
+    "timestamp": "2023-10-02T12:33:00",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:33:30",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:34:00",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:34:30",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:35:00",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:35:30",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:36:00",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:36:30",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:37:00",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:37:30",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:38:00",
+
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:38:30",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:39:00",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:39:30",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:40:00",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:40:30",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:41:00",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:41:30",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:42:00",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:42:30",
+    "cpu_usage_percent": null
+  },
+  {
+    "timestamp": "2023-10-02T12:43:00",
+    "cpu_usage_percent": 24.2
+  },
+  {
+    "timestamp": "2023-10-02T12:43:30",
+    "cpu_usage_percent": 23.9
+  },
+  {
+    "timestamp": "2023-10-02T12:44:00",
+    "cpu_usage_percent": 23.6
+  },
+  {
+    "timestamp": "2023-10-02T12:44:30",
+    "cpu_usage_percent": 23.3
+  },
+  {
+    "timestamp": "2023-10-02T12:45:00",
+    "cpu_usage_percent": 23.0
+  },
+  {
+    "timestamp": "2023-10-02T12:45:30",
+    "cpu_usage_percent": 22.7
+  },
+  {
+    "timestamp": "2023-10-02T12:46:00",
+    "cpu_usage_percent": 22.4
+  },
+  {
+    "timestamp": "2023-10-02T12:46:30",
+    "cpu_usage_percent": 42.1
+  },
+  {
+    "timestamp": "2023-10-02T12:47:00",
+    "cpu_usage_percent": 43.8
+  },
+  {
+    "timestamp": "2023-10-02T12:47:30",
+    "cpu_usage_percent": 45.5
+  },
+  {
+    "timestamp": "2023-10-02T12:48:00",
+    "cpu_usage_percent": 47.2
+  },
+  {
+    "timestamp": "2023-10-02T12:48:30",
+    "cpu_usage_percent": 48.9
+  },
+  {
+    "timestamp": "2023-10-02T12:49:00",
+    "cpu_usage_percent": 50.6
+  },
+  {
+    "timestamp": "2023-10-02T12:49:30",
+    "cpu_usage_percent": 52.3
+  },
+  {
+    "timestamp": "2023-10-02T12:50:00",
+    "cpu_usage_percent": 53.3
+  }
+]
