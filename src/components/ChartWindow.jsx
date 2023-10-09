@@ -1,6 +1,6 @@
 import { Line } from 'react-chartjs-2';
 
-const ChartWindow = ({ rawData }) => {
+const ChartWindow = ({ dates, values }) => {
   //chart options
   const options = {
     maintainAspectRatio: true,
@@ -42,11 +42,11 @@ const ChartWindow = ({ rawData }) => {
 
   //prepare chart data
   const data = {
-    labels: rawData.map((entry) => entry.timestamp),
+    labels: dates,
     datasets: [
       {
         label: 'Użycie CPU (%)',
-        data: rawData.map((entry) => entry.cpu_usage_percent),
+        data: values,
         fill: false,
         borderColor: 'rgb(75, 192, 192)',
         tension: 0.5,
